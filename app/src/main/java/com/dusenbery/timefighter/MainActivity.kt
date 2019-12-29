@@ -8,7 +8,7 @@ import android.util.Log
 import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
-
+//TODO: change the look and feel
 class MainActivity : AppCompatActivity() {
 
     internal var score = 0
